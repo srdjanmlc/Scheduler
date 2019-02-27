@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scheduler</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in_welcome">Scheduler</string>
+    <string name="log_in_slogan">The app \nfor all your meetings</string>
+    <string name="notification_message">Set Notification Message</string>
+    <string name="birthday_message">Set Birthday Message</string>
+    <string name="start_notifications">Start Notification Service</string>
+
+
+</resources>
